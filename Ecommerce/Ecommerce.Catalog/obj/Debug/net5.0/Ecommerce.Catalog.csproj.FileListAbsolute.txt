@@ -1,0 +1,16 @@
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Catalog\bin\Debug\net5.0\Ecommerce.Catalog.exe
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Catalog\bin\Debug\net5.0\Ecommerce.Catalog.deps.json
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Catalog\bin\Debug\net5.0\Ecommerce.Catalog.runtimeconfig.json
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Catalog\bin\Debug\net5.0\Ecommerce.Catalog.runtimeconfig.dev.json
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Catalog\bin\Debug\net5.0\Ecommerce.Catalog.dll
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Catalog\bin\Debug\net5.0\ref\Ecommerce.Catalog.dll
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Catalog\bin\Debug\net5.0\Ecommerce.Catalog.pdb
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Catalog\obj\Debug\net5.0\Ecommerce.Catalog.csprojAssemblyReference.cache
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Catalog\obj\Debug\net5.0\Ecommerce.Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Catalog\obj\Debug\net5.0\Ecommerce.Catalog.AssemblyInfoInputs.cache
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Catalog\obj\Debug\net5.0\Ecommerce.Catalog.AssemblyInfo.cs
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Catalog\obj\Debug\net5.0\Ecommerce.Catalog.csproj.CoreCompileInputs.cache
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Catalog\obj\Debug\net5.0\Ecommerce.Catalog.dll
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Catalog\obj\Debug\net5.0\ref\Ecommerce.Catalog.dll
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Catalog\obj\Debug\net5.0\Ecommerce.Catalog.pdb
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Catalog\obj\Debug\net5.0\Ecommerce.Catalog.genruntimeconfig.cache

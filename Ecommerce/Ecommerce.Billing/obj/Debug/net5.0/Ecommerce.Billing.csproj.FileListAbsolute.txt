@@ -1,0 +1,16 @@
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Billing\bin\Debug\net5.0\Ecommerce.Billing.exe
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Billing\bin\Debug\net5.0\Ecommerce.Billing.deps.json
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Billing\bin\Debug\net5.0\Ecommerce.Billing.runtimeconfig.json
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Billing\bin\Debug\net5.0\Ecommerce.Billing.runtimeconfig.dev.json
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Billing\bin\Debug\net5.0\Ecommerce.Billing.dll
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Billing\bin\Debug\net5.0\ref\Ecommerce.Billing.dll
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Billing\bin\Debug\net5.0\Ecommerce.Billing.pdb
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Billing\obj\Debug\net5.0\Ecommerce.Billing.csprojAssemblyReference.cache
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Billing\obj\Debug\net5.0\Ecommerce.Billing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Billing\obj\Debug\net5.0\Ecommerce.Billing.AssemblyInfoInputs.cache
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Billing\obj\Debug\net5.0\Ecommerce.Billing.AssemblyInfo.cs
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Billing\obj\Debug\net5.0\Ecommerce.Billing.csproj.CoreCompileInputs.cache
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Billing\obj\Debug\net5.0\Ecommerce.Billing.dll
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Billing\obj\Debug\net5.0\ref\Ecommerce.Billing.dll
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Billing\obj\Debug\net5.0\Ecommerce.Billing.pdb
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Billing\obj\Debug\net5.0\Ecommerce.Billing.genruntimeconfig.cache

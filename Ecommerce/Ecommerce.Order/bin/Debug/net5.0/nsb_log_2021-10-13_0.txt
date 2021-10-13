@@ -1,0 +1,58 @@
+﻿2021-10-13 23:39:35.087 INFO  Logging to 'C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Order\bin\Debug\net5.0\' with level Info
+2021-10-13 23:39:35.479 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-30'.
+2021-10-13 23:39:35.487 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=7.5.0&t=0&p=windows
+2021-10-13 23:39:49.669 INFO  Initiating shutdown.
+2021-10-13 23:39:49.715 INFO  Shutdown complete.
+2021-10-13 23:45:08.503 INFO  Logging to 'C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Order\bin\Debug\net5.0\' with level Info
+2021-10-13 23:45:09.278 INFO  Selected active license from C:\Users\AlexandreY\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2022-01-11
+2021-10-13 23:45:16.125 INFO  Initiating shutdown.
+2021-10-13 23:45:16.150 INFO  Shutdown complete.
+2021-10-13 23:45:44.702 INFO  Logging to 'C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Order\bin\Debug\net5.0\' with level Info
+2021-10-13 23:45:45.575 INFO  Selected active license from C:\Users\AlexandreY\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2022-01-11
+2021-10-13 23:45:46.506 INFO  Order initiate, TransactionId = c3372e44-9dc1-4ebc-a025-9e463bdefb5c, OrderId = 0001
+2021-10-13 23:45:46.563 INFO  Order initiate, TransactionId = 7f918f44-9458-4acd-9e04-9c7c4a8c0db3, OrderId = 0001
+2021-10-13 23:46:02.718 INFO  Logging to 'C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Order\bin\Debug\net5.0\' with level Info
+2021-10-13 23:46:03.310 INFO  Selected active license from C:\Users\AlexandreY\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2022-01-11
+2021-10-13 23:46:07.521 INFO  Order initiate, TransactionId = 372f19cf-6cb5-4132-a7a1-f5664080609a, OrderId = 0001
+2021-10-13 23:46:09.875 INFO  Order initiate, TransactionId = e823ae65-87b1-4c5e-97f0-463f738f0e5e, OrderId = 0001
+2021-10-13 23:46:10.765 INFO  Order initiate, TransactionId = fe8831a5-089e-46fd-8d64-28571d65fd72, OrderId = 0001
+2021-10-13 23:46:11.263 INFO  Order initiate, TransactionId = 6df8f5c2-58f0-4579-b4d8-eed034d760d4, OrderId = 0001
+2021-10-13 23:46:11.289 INFO  Order initiate, TransactionId = c403a261-2ee0-4c15-b54e-d3e18b19554d, OrderId = 0001
+2021-10-13 23:46:11.353 INFO  Order initiate, TransactionId = 508352d1-2e0b-4944-8c08-cfda94456f68, OrderId = 0001
+2021-10-13 23:46:11.399 INFO  Order initiate, TransactionId = 2e6fcfaa-0089-41eb-b2b3-e049cb77ae51, OrderId = 0001
+2021-10-13 23:46:11.432 INFO  Order initiate, TransactionId = b3a0abb5-4fb0-4f46-bd10-6287d97ef63d, OrderId = 0001
+2021-10-13 23:46:11.460 INFO  Order initiate, TransactionId = c93bcfea-a3e5-4e3a-bde3-0256c91f0a10, OrderId = 0001
+2021-10-13 23:46:11.486 INFO  Order initiate, TransactionId = 898d9dd5-5267-48c2-bdb0-c6e0102f9e91, OrderId = 0001
+2021-10-13 23:46:11.527 INFO  Order initiate, TransactionId = 10d49302-6584-43dd-9bfc-b29d59eacf97, OrderId = 0001
+2021-10-13 23:46:11.554 INFO  Order initiate, TransactionId = 797834d4-9a76-4b59-bcfa-11c250ba5afe, OrderId = 0001
+2021-10-13 23:46:11.612 INFO  Order initiate, TransactionId = 69439018-9b76-4960-af3b-4a3db6ea9cdd, OrderId = 0001
+2021-10-13 23:46:11.645 INFO  Order initiate, TransactionId = 2f069377-b1d7-4795-9e62-479e961e4cc6, OrderId = 0001
+2021-10-13 23:46:11.676 INFO  Order initiate, TransactionId = 83c4abab-71d2-4ec5-aa14-c58b147219ce, OrderId = 0001
+2021-10-13 23:46:11.705 INFO  Order initiate, TransactionId = af706635-283a-4f93-9208-71aa225ac2d6, OrderId = 0001
+2021-10-13 23:46:11.731 INFO  Order initiate, TransactionId = 959a7889-5787-41d3-b0ad-575d56f91cfd, OrderId = 0001
+2021-10-13 23:46:11.759 INFO  Order initiate, TransactionId = c540ca23-a281-4444-a3dd-2184e7abf054, OrderId = 0001
+2021-10-13 23:46:11.786 INFO  Order initiate, TransactionId = d0f47b7b-ff3b-4b6b-9b43-b1536cfbc5d5, OrderId = 0001
+2021-10-13 23:46:11.811 INFO  Order initiate, TransactionId = f6c41a0d-fb49-4ac7-9e31-c6f9e38834e3, OrderId = 0001
+2021-10-13 23:46:11.854 INFO  Order initiate, TransactionId = d312706a-6b13-4184-b9cb-3b03e73c5893, OrderId = 0001
+2021-10-13 23:46:11.881 INFO  Order initiate, TransactionId = 8a109a2f-67bc-4ed1-8d28-2190296324a5, OrderId = 0001
+2021-10-13 23:46:11.929 INFO  Order initiate, TransactionId = 9953f8a4-2b00-491f-831f-c3b15ff3756f, OrderId = 0001
+2021-10-13 23:46:11.946 INFO  Order initiate, TransactionId = e0fbf163-d6e9-4050-ba73-3d4470504722, OrderId = 0001
+2021-10-13 23:46:11.967 INFO  Order initiate, TransactionId = 679cf4fa-6e55-4c21-9881-a8c422ee5c7f, OrderId = 0001
+2021-10-13 23:46:11.999 INFO  Order initiate, TransactionId = ec0adbac-4809-4d35-8d59-71138c75bf15, OrderId = 0001
+2021-10-13 23:46:12.021 INFO  Order initiate, TransactionId = 45a8257f-f9cb-4d86-819e-8c1290a5668c, OrderId = 0001
+2021-10-13 23:46:12.051 INFO  Order initiate, TransactionId = 4483573c-426f-4d05-975b-ca571ea17922, OrderId = 0001
+2021-10-13 23:46:12.072 INFO  Order initiate, TransactionId = d6e180b6-9914-40fd-a066-a9838d655c92, OrderId = 0001
+2021-10-13 23:46:12.093 INFO  Order initiate, TransactionId = 76d5b4c8-868f-4951-8565-334a28c0e1a4, OrderId = 0001
+2021-10-13 23:46:12.125 INFO  Order initiate, TransactionId = 5b35b234-6593-47d1-aa9b-74065b06f13a, OrderId = 0001
+2021-10-13 23:46:12.148 INFO  Order initiate, TransactionId = 5790a5f3-0e3e-4155-bccb-4f0cd8e626a6, OrderId = 0001
+2021-10-13 23:46:12.169 INFO  Order initiate, TransactionId = c1f7efc3-dcae-475d-a07d-734cfb11c2b4, OrderId = 0001
+2021-10-13 23:46:12.203 INFO  Order initiate, TransactionId = df4179f4-d289-48c7-af53-10352a4fe34f, OrderId = 0001
+2021-10-13 23:46:12.235 INFO  Order initiate, TransactionId = 0e536af8-605e-474a-97f2-f21f998555ec, OrderId = 0001
+2021-10-13 23:46:12.288 INFO  Order initiate, TransactionId = eeb595ee-2b6e-436b-8e4b-99769c0c91c2, OrderId = 0001
+2021-10-13 23:46:12.338 INFO  Order initiate, TransactionId = d909ebb7-7bea-4647-92b1-288b035ea429, OrderId = 0001
+2021-10-13 23:46:12.416 INFO  Order initiate, TransactionId = 9ffe28dc-520c-4662-817e-9f5f72649853, OrderId = 0001
+2021-10-13 23:46:12.460 INFO  Order initiate, TransactionId = ecbbe5d4-b5c4-4e22-a9d1-56883280ad9d, OrderId = 0001
+2021-10-13 23:46:12.540 INFO  Order initiate, TransactionId = 6d2b6bf4-6550-4e99-a33c-68546f37e82e, OrderId = 0001

@@ -1,0 +1,12 @@
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Commands\obj\Debug\net5.0\Ecommerce.Commands.csprojAssemblyReference.cache
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Commands\obj\Debug\net5.0\Ecommerce.Commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Commands\obj\Debug\net5.0\Ecommerce.Commands.AssemblyInfoInputs.cache
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Commands\obj\Debug\net5.0\Ecommerce.Commands.AssemblyInfo.cs
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Commands\obj\Debug\net5.0\Ecommerce.Commands.csproj.CoreCompileInputs.cache
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Commands\bin\Debug\net5.0\Ecommerce.Commands.deps.json
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Commands\bin\Debug\net5.0\Ecommerce.Commands.dll
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Commands\bin\Debug\net5.0\ref\Ecommerce.Commands.dll
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Commands\bin\Debug\net5.0\Ecommerce.Commands.pdb
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Commands\obj\Debug\net5.0\Ecommerce.Commands.dll
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Commands\obj\Debug\net5.0\ref\Ecommerce.Commands.dll
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Commands\obj\Debug\net5.0\Ecommerce.Commands.pdb

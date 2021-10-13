@@ -1,0 +1,16 @@
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Shipping\bin\Debug\net5.0\Ecommerce.Shipping.exe
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Shipping\bin\Debug\net5.0\Ecommerce.Shipping.deps.json
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Shipping\bin\Debug\net5.0\Ecommerce.Shipping.runtimeconfig.json
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Shipping\bin\Debug\net5.0\Ecommerce.Shipping.runtimeconfig.dev.json
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Shipping\bin\Debug\net5.0\Ecommerce.Shipping.dll
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Shipping\bin\Debug\net5.0\ref\Ecommerce.Shipping.dll
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Shipping\bin\Debug\net5.0\Ecommerce.Shipping.pdb
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Shipping\obj\Debug\net5.0\Ecommerce.Shipping.csprojAssemblyReference.cache
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Shipping\obj\Debug\net5.0\Ecommerce.Shipping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Shipping\obj\Debug\net5.0\Ecommerce.Shipping.AssemblyInfoInputs.cache
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Shipping\obj\Debug\net5.0\Ecommerce.Shipping.AssemblyInfo.cs
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Shipping\obj\Debug\net5.0\Ecommerce.Shipping.csproj.CoreCompileInputs.cache
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Shipping\obj\Debug\net5.0\Ecommerce.Shipping.dll
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Shipping\obj\Debug\net5.0\ref\Ecommerce.Shipping.dll
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Shipping\obj\Debug\net5.0\Ecommerce.Shipping.pdb
+C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Shipping\obj\Debug\net5.0\Ecommerce.Shipping.genruntimeconfig.cache

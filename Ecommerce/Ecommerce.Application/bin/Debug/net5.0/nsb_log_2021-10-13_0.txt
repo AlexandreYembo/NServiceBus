@@ -1,0 +1,98 @@
+﻿2021-10-13 23:39:34.973 INFO  Logging to 'C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Application\bin\Debug\net5.0\' with level Info
+2021-10-13 23:39:35.427 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-30'.
+2021-10-13 23:39:35.435 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=7.5.0&t=0&p=windows
+2021-10-13 23:39:35.440 WARN  Opening browser to: https://particular.net/license/nservicebus?v=7.5.0&t=0&p=windows
+2021-10-13 23:45:08.546 INFO  Logging to 'C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Application\bin\Debug\net5.0\' with level Info
+2021-10-13 23:45:09.305 INFO  Selected active license from C:\Users\AlexandreY\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2022-01-11
+2021-10-13 23:45:18.684 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:45:21.927 INFO  Sending InitiateOrder command, TransactionId = 7f918f44-9458-4acd-9e04-9c7c4a8c0db3 and OrderId = 0001
+2021-10-13 23:45:22.417 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:45:22.424 INFO  Unknown input. Please try again.
+2021-10-13 23:45:22.430 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:45:24.691 INFO  Sending InitiateOrder command, TransactionId = c3372e44-9dc1-4ebc-a025-9e463bdefb5c and OrderId = 0001
+2021-10-13 23:45:24.764 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:02.863 INFO  Logging to 'C:\Projects\NServiceBus\NServiceBus\Ecommerce\Ecommerce.Application\bin\Debug\net5.0\' with level Info
+2021-10-13 23:46:03.461 INFO  Selected active license from C:\Users\AlexandreY\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2022-01-11
+2021-10-13 23:46:05.417 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:06.728 INFO  Sending InitiateOrder command, TransactionId = 372f19cf-6cb5-4132-a7a1-f5664080609a and OrderId = 0001
+2021-10-13 23:46:07.118 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:09.815 INFO  Sending InitiateOrder command, TransactionId = e823ae65-87b1-4c5e-97f0-463f738f0e5e and OrderId = 0001
+2021-10-13 23:46:09.851 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:10.714 INFO  Sending InitiateOrder command, TransactionId = fe8831a5-089e-46fd-8d64-28571d65fd72 and OrderId = 0001
+2021-10-13 23:46:10.743 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.219 INFO  Sending InitiateOrder command, TransactionId = 6df8f5c2-58f0-4579-b4d8-eed034d760d4 and OrderId = 0001
+2021-10-13 23:46:11.244 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.250 INFO  Sending InitiateOrder command, TransactionId = c403a261-2ee0-4c15-b54e-d3e18b19554d and OrderId = 0001
+2021-10-13 23:46:11.275 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.284 INFO  Sending InitiateOrder command, TransactionId = 508352d1-2e0b-4944-8c08-cfda94456f68 and OrderId = 0001
+2021-10-13 23:46:11.342 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.350 INFO  Sending InitiateOrder command, TransactionId = 2e6fcfaa-0089-41eb-b2b3-e049cb77ae51 and OrderId = 0001
+2021-10-13 23:46:11.372 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.381 INFO  Sending InitiateOrder command, TransactionId = b3a0abb5-4fb0-4f46-bd10-6287d97ef63d and OrderId = 0001
+2021-10-13 23:46:11.401 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.413 INFO  Sending InitiateOrder command, TransactionId = c93bcfea-a3e5-4e3a-bde3-0256c91f0a10 and OrderId = 0001
+2021-10-13 23:46:11.438 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.448 INFO  Sending InitiateOrder command, TransactionId = 898d9dd5-5267-48c2-bdb0-c6e0102f9e91 and OrderId = 0001
+2021-10-13 23:46:11.473 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.487 INFO  Sending InitiateOrder command, TransactionId = 10d49302-6584-43dd-9bfc-b29d59eacf97 and OrderId = 0001
+2021-10-13 23:46:11.511 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.520 INFO  Sending InitiateOrder command, TransactionId = 797834d4-9a76-4b59-bcfa-11c250ba5afe and OrderId = 0001
+2021-10-13 23:46:11.543 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.553 INFO  Sending InitiateOrder command, TransactionId = 69439018-9b76-4960-af3b-4a3db6ea9cdd and OrderId = 0001
+2021-10-13 23:46:11.579 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.600 INFO  Sending InitiateOrder command, TransactionId = 2f069377-b1d7-4795-9e62-479e961e4cc6 and OrderId = 0001
+2021-10-13 23:46:11.623 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.632 INFO  Sending InitiateOrder command, TransactionId = 83c4abab-71d2-4ec5-aa14-c58b147219ce and OrderId = 0001
+2021-10-13 23:46:11.652 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.662 INFO  Sending InitiateOrder command, TransactionId = af706635-283a-4f93-9208-71aa225ac2d6 and OrderId = 0001
+2021-10-13 23:46:11.684 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.692 INFO  Sending InitiateOrder command, TransactionId = 959a7889-5787-41d3-b0ad-575d56f91cfd and OrderId = 0001
+2021-10-13 23:46:11.714 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.722 INFO  Sending InitiateOrder command, TransactionId = c540ca23-a281-4444-a3dd-2184e7abf054 and OrderId = 0001
+2021-10-13 23:46:11.742 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.751 INFO  Sending InitiateOrder command, TransactionId = d0f47b7b-ff3b-4b6b-9b43-b1536cfbc5d5 and OrderId = 0001
+2021-10-13 23:46:11.771 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.779 INFO  Sending InitiateOrder command, TransactionId = f6c41a0d-fb49-4ac7-9e31-c6f9e38834e3 and OrderId = 0001
+2021-10-13 23:46:11.802 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.810 INFO  Sending InitiateOrder command, TransactionId = d312706a-6b13-4184-b9cb-3b03e73c5893 and OrderId = 0001
+2021-10-13 23:46:11.836 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.844 INFO  Sending InitiateOrder command, TransactionId = 8a109a2f-67bc-4ed1-8d28-2190296324a5 and OrderId = 0001
+2021-10-13 23:46:11.865 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.873 INFO  Sending InitiateOrder command, TransactionId = 9953f8a4-2b00-491f-831f-c3b15ff3756f and OrderId = 0001
+2021-10-13 23:46:11.896 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.903 INFO  Sending InitiateOrder command, TransactionId = e0fbf163-d6e9-4050-ba73-3d4470504722 and OrderId = 0001
+2021-10-13 23:46:11.922 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.927 INFO  Sending InitiateOrder command, TransactionId = 679cf4fa-6e55-4c21-9881-a8c422ee5c7f and OrderId = 0001
+2021-10-13 23:46:11.942 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.948 INFO  Sending InitiateOrder command, TransactionId = ec0adbac-4809-4d35-8d59-71138c75bf15 and OrderId = 0001
+2021-10-13 23:46:11.964 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.970 INFO  Sending InitiateOrder command, TransactionId = 45a8257f-f9cb-4d86-819e-8c1290a5668c and OrderId = 0001
+2021-10-13 23:46:11.986 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:11.992 INFO  Sending InitiateOrder command, TransactionId = 4483573c-426f-4d05-975b-ca571ea17922 and OrderId = 0001
+2021-10-13 23:46:12.008 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:12.019 INFO  Sending InitiateOrder command, TransactionId = 76d5b4c8-868f-4951-8565-334a28c0e1a4 and OrderId = 0001
+2021-10-13 23:46:12.037 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:12.044 INFO  Sending InitiateOrder command, TransactionId = d6e180b6-9914-40fd-a066-a9838d655c92 and OrderId = 0001
+2021-10-13 23:46:12.063 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:12.071 INFO  Sending InitiateOrder command, TransactionId = 5b35b234-6593-47d1-aa9b-74065b06f13a and OrderId = 0001
+2021-10-13 23:46:12.091 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:12.099 INFO  Sending InitiateOrder command, TransactionId = 5790a5f3-0e3e-4155-bccb-4f0cd8e626a6 and OrderId = 0001
+2021-10-13 23:46:12.126 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:12.136 INFO  Sending InitiateOrder command, TransactionId = c1f7efc3-dcae-475d-a07d-734cfb11c2b4 and OrderId = 0001
+2021-10-13 23:46:12.152 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:12.158 INFO  Sending InitiateOrder command, TransactionId = df4179f4-d289-48c7-af53-10352a4fe34f and OrderId = 0001
+2021-10-13 23:46:12.182 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:12.192 INFO  Sending InitiateOrder command, TransactionId = 0e536af8-605e-474a-97f2-f21f998555ec and OrderId = 0001
+2021-10-13 23:46:12.220 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:12.231 INFO  Sending InitiateOrder command, TransactionId = eeb595ee-2b6e-436b-8e4b-99769c0c91c2 and OrderId = 0001
+2021-10-13 23:46:12.271 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:12.285 INFO  Sending InitiateOrder command, TransactionId = d909ebb7-7bea-4647-92b1-288b035ea429 and OrderId = 0001
+2021-10-13 23:46:12.310 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:12.326 INFO  Sending InitiateOrder command, TransactionId = 9ffe28dc-520c-4662-817e-9f5f72649853 and OrderId = 0001
+2021-10-13 23:46:12.396 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:12.409 INFO  Sending InitiateOrder command, TransactionId = ecbbe5d4-b5c4-4e22-a9d1-56883280ad9d and OrderId = 0001
+2021-10-13 23:46:12.443 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-10-13 23:46:12.475 INFO  Sending InitiateOrder command, TransactionId = 6d2b6bf4-6550-4e99-a33c-68546f37e82e and OrderId = 0001
+2021-10-13 23:46:12.518 INFO  Press 'P' to place an order, or 'Q' to quit.
